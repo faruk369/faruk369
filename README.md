@@ -1,12 +1,12 @@
 # 💫 About Me:
-Hey there ! 👋<br><br>- 🍎 I am an IOS developer in love with Swift <br><br>- 🍎 I have a Bachelo's degree in "Electric Robotic Equipments & Ship Automation".
+Hey there ! 👋<br><br>- 🍎 I am an IOS developer in love with Swift since 2019 <br><br>- 🍎 I have a Bachelor's degree in "Electric Robotic Equipments & Ship Automation" and a Master's degree in Power Engineering.
 
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Faruk369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Faruk369&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Faruk369&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
