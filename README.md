@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there ! 👋<br><br>- 🍎 I am an IOS developer working with Swift since 2019 <br><br>- 🍎 I have a Bachelor's degree in "Electric Robotic Equipments & Ship Automation" and a Master's degree in Power Engineering.
+Hey there ! 👋<br><br>- 🍎 I am an IOS developer working with Swift since 2019 <br><br>- 🍎 I hold a Bachelor's in Electric Robotic Equipment & Ship Automation and a Master's in Power Engineering but my true passion lies in Swift and iOS development!
 
 
 # 💻 Tech Stack:
