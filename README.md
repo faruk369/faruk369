@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there ! 👋<br><br>- 🍎 IOS developer <br><br>- 🍎 Bachelor's in Electric Robotic Equipment & Ship Automation and Master's in Power Engineering but my true passion lies in Swift and iOS development!
+Hey there ! 👋<br><br>- 🍎 IOS developer <br><br>- 🍎 Bachelor's in Electric Robotic Equipment & Ship Automation and Master's in Power Engineering
 
 
 # 💻 Tech Stack:
